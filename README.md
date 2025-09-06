@@ -28,4 +28,4 @@ DivineTree is a comprehensive framework for 3D tree modeling conditioned on **di
    ![Demo.jpg](https://github.com/xujiabo/DivineTree/blob/main/assets/demo.jpg)
 
 2. **Future Updates**  
-   Our paper is currently under review. If fortunate enough to be accepted, we will provide more examples for researchers to generate 3D trees using various visual guidance (e.g., point clouds, images in different styles, etc.). Although the code for these processes is already prepared in `xxx_to_pcd.py`, we will provide runnable examples in the future.
+   Our paper is currently under review. If fortunate enough to be accepted, we will provide more examples for researchers to generate 3D trees using various visual guidance (e.g., point clouds, images in different styles, etc.). Although the code for these processes is already prepared in `xxx_to_tree.py`, we will provide runnable examples in the future.

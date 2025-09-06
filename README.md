@@ -13,7 +13,7 @@ DivineTree is a comprehensive framework for 3D tree modeling conditioned on **di
 
 2. **Pretrained Model Weights**  
    We offer pretrained weights for a diffusion model trained on the 100,000 3D tree dataset.  
-   - [llama-tree.pth](https://pan.baidu.com/s/1tEga1mMId7wYyIdFbuujng) (code: 6khz)  
+   - [llama-tree.pth](https://pan.baidu.com/s/1tEga1mMId7wYyIdFbuujng) (670MB, code: 6khz)  
    After downloading, place the file in the `params` folder.
 
 3. **Blender Files**  

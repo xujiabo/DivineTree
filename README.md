@@ -19,13 +19,13 @@ DivineTree is a comprehensive framework for 3D tree modeling conditioned on **di
 3. **Blender Files**  
    We provide 3D tree samples generated using DivineTree and imported into Blender for lighting, rendering, and scene setup.  
    - The `blender_files` folder contains 3 `.blend` files that can be directly opened in Blender.  
-   ![Blender.jpg](https://github.com/xujiabo/DivineTree/assets/blender.jpg)
+   ![Blender.jpg](https://github.com/xujiabo/DivineTree/blob/main/assets/blender.jpg)
 
 ## Visualization
 
 1. **Demo**  
    We offer a demo showcasing a 3D tree generated from a point cloud. You can run the `vis_pcd_to_tree_wo_net.py` script for visualization.  
-   ![Demo.jpg](https://github.com/xujiabo/DivineTree/assets/demo.jpg)
+   ![Demo.jpg](https://github.com/xujiabo/DivineTree/blob/main/assets/demo.jpg)
 
 2. **Future Updates**  
    Our paper is currently under review. If fortunate enough to be accepted, we will provide more examples for researchers to generate 3D trees using various visual guidance (e.g., point clouds, images in different styles, etc.). Although the code for these processes is already prepared in `xxx_to_pcd.py`, we will provide runnable examples in the future.
